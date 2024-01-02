@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "1234",
+    "database": "conduit",
+    "host": "mysql-db",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "1234",
+    "database": "conduit",
+    "host": "mysql-db",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "1234",
+    "database": "conduit",
+    "host": "mysql-db",
+    "dialect": "mysql"
+  }
+}
